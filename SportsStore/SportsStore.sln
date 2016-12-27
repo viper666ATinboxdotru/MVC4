@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{00FE4212-C1AF-4C6C-B821-39184F1CFE43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{4F0BF87C-7C54-46DF-9706-2B197B54D8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{5DABC53A-7047-46AB-B035-0BD5DC692B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FE4212-C1AF-4C6C-B821-39184F1CFE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FE4212-C1AF-4C6C-B821-39184F1CFE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FE4212-C1AF-4C6C-B821-39184F1CFE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FE4212-C1AF-4C6C-B821-39184F1CFE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0BF87C-7C54-46DF-9706-2B197B54D8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0BF87C-7C54-46DF-9706-2B197B54D8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0BF87C-7C54-46DF-9706-2B197B54D8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0BF87C-7C54-46DF-9706-2B197B54D8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DABC53A-7047-46AB-B035-0BD5DC692B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DABC53A-7047-46AB-B035-0BD5DC692B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DABC53A-7047-46AB-B035-0BD5DC692B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DABC53A-7047-46AB-B035-0BD5DC692B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
